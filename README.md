@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, specially Android
 - 🌱 I’m currently learning JAVA, Data structure and Algorithm
 - 💞️ I’m looking to collaborate on Android Project based on JAVA
-- 📫 How to reach me: 
+- 📫 How to reach me : 
 Email - amartyadey24@gmail.com, Phone - +91 8017848263 / +91 9123359755
 
 <!---

@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Profile Banner](https://drive.google.com/file/d/1ZHYRqhqz0V2raVIxrx5VyUV7A-5oSw9T/view?usp=sharing)
+![Profile Banner](github_banner.png)
 
 ## About Me
 

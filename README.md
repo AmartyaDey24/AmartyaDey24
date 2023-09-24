@@ -10,6 +10,7 @@ Hello! I'm Amartya, and this is my GitHub profile. I'm passionate about software
 
 - **Email**: [amartyadey24@gmail.com](mailto:amartyadey24@gmail.com)
 - **LinkedIn**: [amartya-dey-24am](https://www.linkedin.com/in/amartya-dey-24am)
+- **Portfolio Website**: amartyadey.com
 
 ## My Work
 
